@@ -1,0 +1,38 @@
+.Container_middle
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left
+{
+    width: 500px;
+    background-color: #EEF1F6;
+}
+
+.Container_middle_para
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.age_heading
+{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: #01060d;
+    font-style: italic;
+}
+
+button
+{
+    margin-top: 15%;
+    margin-left: 5%;
+    color: rgb(6, 6, 14);
+    background-color: rgb(18, 79, 234);
+    font-weight: 400;
+    
+}
+
